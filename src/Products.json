@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "image": "/Images/product1.jpg",
+        "secondaryImage": "/Images/product1.jpg",
+        "productname": "AirRunner Sneakers",
+        "price": "$59.99",
+        "tag":"New"
+    },
+    {
+        "id": "2",
+        "image": "/Images/product2.jpg",
+        "secondaryImage": "/Images/product2.jpg",
+        "productname": "Eco-Friendly Backpack",
+        "price": "$39.99",
+        "oldPrice": "$49.99",
+        "tag":"Sale"
+    },
+    {
+        "id": "3",
+        "image": "/Images/product3.jpg",
+        "secondaryImage": "/Images/product3.jpg",
+        "productname": "Comfort Walk Loafers",
+        "price": "$79.99",
+        "tag":"New"
+    },
+    {
+        "id": "4",
+        "image": "/Images/product4.jpg",
+        "secondaryImage": "/Images/product4.jpg",
+        "productname": "Velocity Running Shoes",
+        "price": "$199.99",
+        "oldPrice": "$249.99",
+        "tag":"Sale"
+    },
+    {
+        "id": "5",
+        "image": "/Images/product5.jpg",
+        "secondaryImage": "/Images/product5.jpg",
+        "productname": "Street Style Canvas Sneakers",
+        "price": "$89.99",
+        "oldPrice": "$99.99",
+        "tag":"Sale"
+    },
+    {
+        "id": "6",
+        "image": "/Images/product6.jpg",
+        "secondaryImage": "/Images/product6.jpg",
+        "productname": "AirRunner Sneakers",
+        "price": "$110.99"
+       
+    },
+    {
+        "id": "7",
+        "image": "/Images/product1.jpg",
+        "secondaryImage": "/Images/product1.jpg",
+        "productname": "AirRunner Sneakers",
+        "price": "$89.99",
+        "tag":"New"
+    },
+    {
+        "id": "8",
+        "image": "/Images/product2.jpg",
+        "secondaryImage": "/Images/product2.jpg",
+        "productname": "UrbanFlex Trainers",
+        "price": "$65.99",
+        "oldPrice": "$80.99",
+        "tag":"Sale"
+    }
+]
